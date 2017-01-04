@@ -1,15 +1,3 @@
-CS542 Design Patterns
-Fall 2016
-PROJECT 5 README FILE
-
-Due Date: <Thursday, December 15, 2016>
-Submission Date: <Friday, December 16, 2016>
-Grace Period Used This Project: 1 Days
-Grace Period Remaining: 0 Days
-Author(s): Sunil Kumar Sahu 
-e-mail(s): ssahu1@binghamton.edu
-
-
 PURPOSE:
 
 This java program is to understand Java Reflection and Object Comparison in Java.
